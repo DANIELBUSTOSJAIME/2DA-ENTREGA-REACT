@@ -1,0 +1,7 @@
+.Widget{
+    display: flex;
+}
+#NumberWidget{
+    font-size: small;
+    color: white;
+}

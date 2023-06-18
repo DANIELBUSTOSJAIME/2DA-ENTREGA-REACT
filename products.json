@@ -1,0 +1,39 @@
+[
+    {
+        "id": 1,
+        "name": "Buso Casual",
+        "price": "$ 15.000",
+        "category": "Busos",
+        "colors": "Azul - Verde - Rojo",
+        "talles": "M - L -XL",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBt07mPJbk7qIvTkAakR5yg-FmLBrkG9BggA&usqp=CAU"
+    },
+    {
+        "id": 2,
+        "name": "Sweater Pilot",
+        "price": "$ 12.000",
+        "category": "Sweaters",
+        "colors": "Azul - Verde - Rojo",
+        "talles": "M - L -XL",
+        "image": "https://equus.vtexassets.com/arquivos/ids/226875-500-auto?v=637813129029730000&width=500&height=auto&aspect=true"
+    },
+    {
+        "id": 3,
+        "name": "Campera Americana",
+        "price": "$ 18.000",
+        "category": "Camperas",
+        "colors": "Azul - Verde - Rojo",
+        "talles": "M - L -XL",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBt07mPJbk7qIvTkAakR5yg-FmLBrkG9BggA&usqp=CAU"
+    },
+    {
+        "id": 4,
+        "name": "Campera Marinero",
+        "price": "$ 17.000",
+        "category": "Camperas",
+        "colors": "Azul - Verde - Rojo",
+        "talles": "M - L -XL",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBt07mPJbk7qIvTkAakR5yg-FmLBrkG9BggA&usqp=CAU"
+    }
+
+]

@@ -1,0 +1,15 @@
+.ImgLogo{
+    width: 55px;
+}
+.NavBar{
+    padding: 1rem;
+    color: black;
+    text-decoration: none;
+    justify-content: space-between;
+}
+.letter{
+    font-family: 'Shadows Into Light Two', cursive;
+    font-size: larger;
+    font-weight: bolder;
+    justify-items: center;
+}
